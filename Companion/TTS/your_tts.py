@@ -1,0 +1,1 @@
+from TTS.utils.synthesizer import Synthesizer
